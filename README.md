@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Comosera
-- 👀 I’m interested in adpating, learning, and creating change in this world.
+- 👀 I’m interested in adpating, learning, and creating change in this beautiful world.
 - 🌱 I’m currently learning python, JavaScript, CSS, HTML, React, Rust.
 - 💞️ I’m looking to collaborate on simple projects that can challenge me further.
 
